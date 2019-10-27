@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhihan Zhang"
-  avatar           : "/assets/images/avatar.jpg/350x350" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Peking University"
-  location         : "Beijing, China"
-  email            : 
+  name            : "Zhihan Zhang"
+  avatar          : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio             : "Peking University"
+  location        : "Beijing, China"
+  email           : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -131,6 +131,12 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+
+sidebar:
+  - title: "Zhihan Zhang"
+    image: "/assets/images/avatar.jpg"
+    image_alt: "image"
+    text: "Peking University"
 
 # Site Footer
 footer:
@@ -284,7 +290,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
