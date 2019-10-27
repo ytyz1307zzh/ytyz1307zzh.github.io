@@ -15,8 +15,7 @@
 .archive {
     font-size: 18px;
 }
-.social-icons {
-    .fa-weibo {
+.social-icons .fa-weibo {
       color: red;
 }
-}
+
