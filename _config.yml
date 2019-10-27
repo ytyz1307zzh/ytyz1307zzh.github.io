@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhihan Zhang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Peking University"
   location         : "Beijing, China"
   email            : 
