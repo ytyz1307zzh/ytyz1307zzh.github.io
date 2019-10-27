@@ -1,17 +1,17 @@
-body a:link {
+.archive a:link {
     color:blue;
     text-decoration: none;
 }
-body a:visited {
+.archive a:visited {
     color: blue;
     text-decoration: none;
 }
-body a:hover {
+.archive a:hover {
     text-decoration: none;
 }
-body a:active {
+.archive a:active {
     text-decoration: none;
 }
-body {
-    font-size: 16px;
+.archive {
+    font-size: 20px;
 }
