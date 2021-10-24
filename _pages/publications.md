@@ -5,12 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[7] Daheng Wang, **Zhihan Zhang**, Yihong Ma, Tong Zhao, Tianwen Jiang, Nitesh V. Chawla and Meng Jiang. Modeling Co-evolution of Attributed and Structural Information in Graph Sequence. In *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)</i>*, 2021. \[[paper](http://www.meng-jiang.com/pubs/coevognn-tkde21/coevognn-tkde21-paper.pdf)]
