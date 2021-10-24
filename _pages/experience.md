@@ -1,16 +1,25 @@
 ---
 layout: archive
-title: "Experience"
+title: 
 permalink: /experience/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Education
+======
 
-{% include base_path %}
+**University of Notre Dame**
+*Indiana, United States*
+- Doctor of Philosophy
+- Department of Computer Science and Engineering
+- Major: Computer Science and Engineering
+- Advisor: [Dr. Meng Jiang](https://www.meng-jiang.com)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Peking University**
+*Beijing, China*
+- Bachelor of Science
+- School of Electronic Engineering and Computer Science
+- Major: Computer Science and Technology
+- Advisor: [Dr. Xu Sun](http://xusun.org), [Dr. Yunfang Wu](https://cs.pku.edu.cn/info/1083/1300.htm)
+
+
