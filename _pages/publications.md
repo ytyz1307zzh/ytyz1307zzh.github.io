@@ -7,11 +7,11 @@ author_profile: true
 
 (* means equal contribution)
 
-[10] Gang Liu, **Zhihan Zhang**, Zheng Ning, Meng Jiang. On the Relationship between Counterfactual Explainer and Recommender: A Framework and Preliminary Observations. In *KDD Workshop on Data Science and Artificial Intelligence for Responsible Recommendations (**KDD-DS4RRS**)*, 2022.
+[10] Gang Liu, **Zhihan Zhang**, Zheng Ning, Meng Jiang. On the Relationship between Counterfactual Explainer and Recommender: A Framework and Preliminary Observations. In *KDD Workshop on Data Science and Artificial Intelligence for Responsible Recommendations (**KDD-DS4RRS**)*, 2022. \[[paper](https://arxiv.org/abs/2207.04317)] 
 
 [9] **Zhihan Zhang***, Wenhao Yu*, Mengxia Yu, Zhichun Guo, Meng Jiang. A Survey of Multi-task Learning in Natural Language Processing: Regarding Task Relatedness and Training Methods. ArXiv preprint, 2022. \[[paper](https://arxiv.org/abs/2204.03508)]
 
-[8] Wenhao Yu, Chenguang Zhu, Lianhui Qin, **Zhihan Zhang**, Tong Zhao, Meng Jiang. Diversifying Content Generation for Commonsense Reasoning with Mixture of Knowledge Graph Experts. In *Findings of the Association for Computational Linguistics (**ACL**)*, 2022. \[[paper](https://aclanthology.org/2022.findings-acl.149)]
+[8] Wenhao Yu, Chenguang Zhu, Lianhui Qin, **Zhihan Zhang**, Tong Zhao, Meng Jiang. Diversifying Content Generation for Commonsense Reasoning with Mixture of Knowledge Graph Experts. In *Findings of the Association for Computational Linguistics (**ACL**)*, 2022. \[[paper](https://aclanthology.org/2022.findings-acl.149)] \[[code](https://github.com/DM2-ND/MoKGE)]
 
 [7] Daheng Wang, **Zhihan Zhang**, Yihong Ma, Tong Zhao, Tianwen Jiang, Nitesh V. Chawla, Meng Jiang. Modeling Co-evolution of Attributed and Structural Information in Graph Sequence. In *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2021. \[[paper](http://www.meng-jiang.com/pubs/coevognn-tkde21/coevognn-tkde21-paper.pdf)]
 
