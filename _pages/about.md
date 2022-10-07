@@ -16,11 +16,10 @@ For my past education and research experience, please refer to [Experience](http
 News
 ======
 
+- Oct 2022: One [first-authored paper](https://ytyz1307zzh.github.io/files/EMNLP22_EMAG.pdf) and one co-authored paper are accepted by EMNLP 2022.
 - Apr 2022: We wrote a survey on multi-task learning in NLP. A pre-print version is available on [Arxiv](https://arxiv.org/abs/2204.03508).
 - Mar 2022: One co-authored paper on diversified commonsense reasoning was accepted by [ACL 2022 Findings](https://aclanthology.org/2022.findings-acl.149).
 - Jun 2021: One co-authored paper on evolutional graph representation learning was accepted by [TKDE 2021](https://www.computer.org/csdl/journal/tk).
-- Apr 2021: I was awarded The Web Conference 2021 Student Scholarship. Thank you TheWebConf!
-- Apr 2021: I am offered admission to the PhD program in Computer Science and Engineering at the University of Notre Dame. My advisor will be [Dr. Meng Jiang](https://www.meng-jiang.com).
 
 Contact
 ======

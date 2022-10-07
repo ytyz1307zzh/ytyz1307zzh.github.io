@@ -7,6 +7,10 @@ author_profile: true
 
 (* means equal contribution)
 
+[12] **Zhihan Zhang**, Wenhao Yu, Chenguang Zhu, Meng Jiang. A Unified Encoder-Decoder Framework with Entity Memory. In *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2022. \[[paper](https://ytyz1307zzh.github.io/files/EMNLP22_EMAG.pdf)]
+
+[11] Wenhao Yu, Chenguang Zhu, **Zhihan Zhang**, Shuohang Wang, Zhuosheng Zhang, Yuwei Fang, Meng Jiang. Retrieval Augmentation for Commonsense Reasoning: A Unified Approach. In *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2022.
+
 [10] Gang Liu, **Zhihan Zhang**, Zheng Ning, Meng Jiang. On the Relationship between Counterfactual Explainer and Recommender: A Framework and Preliminary Observations. In *KDD Workshop on Data Science and Artificial Intelligence for Responsible Recommendations (**KDD-DS4RRS**)*, 2022. \[[paper](https://arxiv.org/abs/2207.04317)] 
 
 [9] **Zhihan Zhang**\*, Wenhao Yu\*, Mengxia Yu, Zhichun Guo, Meng Jiang. A Survey of Multi-task Learning in Natural Language Processing: Regarding Task Relatedness and Training Methods. ArXiv preprint, 2022. \[[paper](https://arxiv.org/abs/2204.03508)]
