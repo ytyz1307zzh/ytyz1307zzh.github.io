@@ -7,7 +7,7 @@ author_profile: true
 
 (* means equal contribution)
 
-[12] **Zhihan Zhang**, Wenhao Yu, Chenguang Zhu, Meng Jiang. A Unified Encoder-Decoder Framework with Entity Memory. In *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2022. \[[paper](https://ytyz1307zzh.github.io/files/EMNLP22_EMAG.pdf)]
+[12] **Zhihan Zhang**, Wenhao Yu, Chenguang Zhu, Meng Jiang. A Unified Encoder-Decoder Framework with Entity Memory. In *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2022. \[[paper](https://arxiv.org/abs/2210.03273)]
 
 [11] Wenhao Yu, Chenguang Zhu, **Zhihan Zhang**, Shuohang Wang, Zhuosheng Zhang, Yuwei Fang, Meng Jiang. Retrieval Augmentation for Commonsense Reasoning: A Unified Approach. In *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2022.
 
