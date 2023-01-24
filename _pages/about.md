@@ -16,7 +16,9 @@ For my past education and research experience, please refer to [Experience](http
 News
 ======
 
-- Oct 2022: One [first-authored paper](https://ytyz1307zzh.github.io/files/EMNLP22_EMAG.pdf) and one co-authored paper are accepted by EMNLP 2022.
+- Jan 2023: One [first-authored paper](https://arxiv.org/abs/2204.03508) was accepted by EACL 2023.
+- Jan 2023: I joined Microsoft Research as a part-time intern!
+- Oct 2022: One [first-authored paper](https://arxiv.org/abs/2210.03273) and one co-authored paper were accepted by EMNLP 2022.
 - Apr 2022: We wrote a survey on multi-task learning in NLP. A pre-print version is available on [Arxiv](https://arxiv.org/abs/2204.03508).
 - Mar 2022: One co-authored paper on diversified commonsense reasoning was accepted by [ACL 2022 Findings](https://aclanthology.org/2022.findings-acl.149).
 - Jun 2021: One co-authored paper on evolutional graph representation learning was accepted by [TKDE 2021](https://www.computer.org/csdl/journal/tk).
