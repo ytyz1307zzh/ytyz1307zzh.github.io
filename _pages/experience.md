@@ -23,6 +23,19 @@ author_profile: true
 Experience
 ======
 
+**Snapchat Research**, Jun 2023 - Aug 2023\
+*Santa Monica, CA, United States*
+- Full-time Research Intern
+- User Modeling & Personalization Group
+- Mentor: [Dr. Francesco Barbieri](https://fvancesco.github.io/)
+
+**Microsoft Research**, Jan 2023 - May 2023\
+*Redmond, WA, United States*
+- Part-time Research Intern
+- Microsoft Cognitive Service Research Group
+- Mentor: [Dr. Shuohang Wang](https://sites.google.com/site/shuohangsite/), [Dr. Chenguang Zhu](https://www.microsoft.com/en-us/research/people/chezhu/)
+- Research: Applications of large language models
+
 **Tencent**, Nov 2020 - Aug 2021\
 *Beijing, China*
 - Researcher
@@ -37,7 +50,7 @@ Experience
 - Research: knowledge-enhanced reading comprehension & dialogue
 
 **University of Notre Dame**, Jul 2019 - Sept 2019\
-*Indiana, United States*
+*Notre Dame, IN, United States*
 - Full-time Research Assistant
 - International Summer Undergraduate Research Experience ([iSURE](https://international.nd.edu/students-scholars/global-engagement-programs/summer-programs/isure/)) program
 - Advisor: [Dr. Meng Jiang](http://www.meng-jiang.com)
