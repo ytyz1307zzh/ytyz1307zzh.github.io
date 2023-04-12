@@ -9,9 +9,9 @@ author_profile: true
 
 [12] **Zhihan Zhang**, Wenhao Yu, Mengxia Yu, Zhichun Guo, Meng Jiang. A Survey of Multi-task Learning in Natural Language Processing: Regarding Task Relatedness and Training Methods. In *Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (**EACL**)*, 2023. \[[paper](https://arxiv.org/abs/2204.03508)]
 
-[11] **Zhihan Zhang**, Wenhao Yu, Chenguang Zhu, Meng Jiang. A Unified Encoder-Decoder Framework with Entity Memory. In *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2022. \[[paper](https://arxiv.org/abs/2210.03273)] \[[code](https://github.com/DM2-ND/EDMem)]
+[11] **Zhihan Zhang**, Wenhao Yu, Chenguang Zhu, Meng Jiang. A Unified Encoder-Decoder Framework with Entity Memory. In *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2022. \[[paper](https://arxiv.org/abs/2210.03273)] \[[code](https://github.com/DM2-ND/EDMem)] \[[video](https://drive.google.com/file/d/1R7XJw5sMSzTxiVfxzt1jhW6Bu8udy6iT/view?usp=sharing)] \[[poster](https://drive.google.com/file/d/1o9k5YGW8mYsonXAPGSfqYqm8W7LEcD11/view?usp=sharing)]
 
-[10] Wenhao Yu, Chenguang Zhu, **Zhihan Zhang**, Shuohang Wang, Zhuosheng Zhang, Yuwei Fang, Meng Jiang. Retrieval Augmentation for Commonsense Reasoning: A Unified Approach. In *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2022. \[[paper](https://arxiv.org/abs/2210.12887)]
+[10] Wenhao Yu, Chenguang Zhu, **Zhihan Zhang**, Shuohang Wang, Zhuosheng Zhang, Yuwei Fang, Meng Jiang. Retrieval Augmentation for Commonsense Reasoning: A Unified Approach. In *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2022. \[[paper](https://arxiv.org/abs/2210.12887)] \[[code](https://github.com/wyu97/RACo)]
 
 [9] Gang Liu, **Zhihan Zhang**, Zheng Ning, Meng Jiang. On the Relationship between Counterfactual Explainer and Recommender: A Framework and Preliminary Observations. In *KDD Workshop on Data Science and Artificial Intelligence for Responsible Recommendations (**KDD-DS4RRS**)*, 2022. \[[paper](https://arxiv.org/abs/2207.04317)] 
 
