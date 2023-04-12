@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "http://scholar.google.com/citations?user=7dcunDUAAAAJ&hl=en"
   email            : "zzhang23@nd.edu"
-  researchgate     : "https://www.researchgate.net/profile/Zhihan-Zhang-4"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "zhihz0535"
   vine             :
   weibo            :
   xing             :
