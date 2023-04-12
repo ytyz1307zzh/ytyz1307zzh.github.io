@@ -15,13 +15,10 @@ For my past education and research experience, please refer to [Experience](http
 
 News
 ======
-
-- Jan 2023: One [first-authored paper](https://arxiv.org/abs/2204.03508) was accepted by EACL 2023.
-- Jan 2023: I joined Microsoft Research as a part-time intern!
-- Oct 2022: One [first-authored paper](https://arxiv.org/abs/2210.03273) and one co-authored paper were accepted by EMNLP 2022.
-- Apr 2022: We wrote a survey on multi-task learning in NLP. A pre-print version is available on [Arxiv](https://arxiv.org/abs/2204.03508).
-- Mar 2022: One co-authored paper on diversified commonsense reasoning was accepted by [ACL 2022 Findings](https://aclanthology.org/2022.findings-acl.149).
-- Jun 2021: One co-authored paper on evolutional graph representation learning was accepted by [TKDE 2021](https://www.computer.org/csdl/journal/tk).
+- Apr 2023: I am joining Snapchat Research as a full-time research intern this summer! I will work with [Dr. Francesco Barbieri](https://fvancesco.github.io/) from the [User Modeling & Personalization Group](https://research.snap.com/team/category/user-modeling-and-personalization.html).
+- Jan 2023: One [first-authored survey](https://arxiv.org/abs/2204.03508) on multi-task learning in NLP was accepted by EACL 2023!
+- Jan 2023: I am joining Microsoft Research as a part-time intern this spring! I will work with [Dr. Shuohang Wang](https://sites.google.com/site/shuohangsite/) and [Dr. Chenguang Zhu](https://www.microsoft.com/en-us/research/people/chezhu/) from the [Azure Cognitive Services Research](https://www.microsoft.com/en-us/research/group/cognitive-services-research/) group.
+- Oct 2022: One [first-authored paper](https://arxiv.org/abs/2210.03273) on pre-training a unified NLP framework with entity memory and one [co-authored paper](https://arxiv.org/abs/2210.12887) on a unified retrieval-augmented framework for commonsense reasoning were accepted by EMNLP 2022!
 
 Contact
 ======
