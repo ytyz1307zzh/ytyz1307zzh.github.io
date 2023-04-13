@@ -19,7 +19,7 @@ author_profile: true
 
 [7] Daheng Wang, **Zhihan Zhang**, Yihong Ma, Tong Zhao, Tianwen Jiang, Nitesh V. Chawla, Meng Jiang. Modeling Co-evolution of Attributed and Structural Information in Graph Sequence. In *IEEE Transactions on Knowledge and Data Engineering (**TKDE**)*, 2021. \[[paper](http://www.meng-jiang.com/pubs/coevognn-tkde21/coevognn-tkde21-paper.pdf)]
 
-[6] **Zhihan Zhang**, Xiubo Geng, Tao Qin, Yunfang Wu, Daxin Jiang. Knowledge-Aware Procedural Text Understanding with Multi-Stage Training. In *Proceedings of The Web Conference (**WWW**)*, 2021. \[[paper](https://arxiv.org/abs/2009.13199)] \[[video](https://theweb.miteam.eu/asset/62DWWCvL8FjQv3STc)] \[[code](https://github.com/ytyz1307zzh/KOALA)]
+[6] **Zhihan Zhang**, Xiubo Geng, Tao Qin, Yunfang Wu, Daxin Jiang. Knowledge-Aware Procedural Text Understanding with Multi-Stage Training. In *Proceedings of The Web Conference (**WWW**)*, 2021. \[[paper](https://arxiv.org/abs/2009.13199)] \[[video](https://drive.google.com/file/d/15sM0Zf8Mfqa0_iFY8LY7UnLcVBzPPMcX/view?usp=sharing)] \[[code](https://github.com/ytyz1307zzh/KOALA)]
 
 [5] Qian Liu, Jie Lu, Guangquan Zhang, Tao Shen, **Zhihan Zhang**, Heyan Huang. Domain-Specific Meta-Embedding with Latent Semantic Structures. In ***Information Sciences***, 2020. \[[paper](https://www.sciencedirect.com/science/article/abs/pii/S002002552031029X)]
 
