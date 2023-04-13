@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhihan Zhang (张智涵). I am a first-year Ph.D. candidate in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), advised by [Dr. Meng Jiang](http://www.meng-jiang.com/). I am currently a member of Dr. Jiang's [Data Mining towards Decision Making](http://www.meng-jiang.com/lab.html) (DM<sup>2</sup>) Lab. Before that, I received my Bachelor's degree in Computer Science at [Peking University](https://www.pku.edu.cn/) in July 2020.
+My name is Zhihan Zhang (张智涵). I am a second-year Ph.D. student in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), advised by [Dr. Meng Jiang](http://www.meng-jiang.com/). I am currently a member of Dr. Jiang's [Data Mining towards Decision Making](http://www.meng-jiang.com/lab.html) (DM<sup>2</sup>) Lab. Before that, I received my Bachelor's degree in Computer Science at [Peking University](https://www.pku.edu.cn/).
 My research interests fall primarily in the area of knowledge-enhanced NLP and question answering (QA).
 
 For my past education and research experience, please refer to [Experience](http://ytyz1307zzh.github.io/experience). For the full list of my publications, please refer to [Publications](http://ytyz1307zzh.github.io/publications).
