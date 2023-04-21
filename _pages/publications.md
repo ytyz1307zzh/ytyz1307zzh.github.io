@@ -7,7 +7,7 @@ author_profile: true
 
 (* means equal contribution)
 
-[12] **Zhihan Zhang**, Wenhao Yu, Mengxia Yu, Zhichun Guo, Meng Jiang. A Survey of Multi-task Learning in Natural Language Processing: Regarding Task Relatedness and Training Methods. In *Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (**EACL**)*, 2023. \[[paper](https://arxiv.org/abs/2204.03508)]
+[12] **Zhihan Zhang**, Wenhao Yu, Mengxia Yu, Zhichun Guo, Meng Jiang. A Survey of Multi-task Learning in Natural Language Processing: Regarding Task Relatedness and Training Methods. In *Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (**EACL**)*, 2023. \[[paper](https://arxiv.org/abs/2204.03508)] [[video](https://drive.google.com/file/d/1yw0Zek437p-LljxClNVDeVnDxf2xIdy7/view?usp=sharing)] [[poster](https://drive.google.com/file/d/13RecLlxHA9bB8rnmkn4LbohKZWrPE5tr/view?usp=sharing)]
 
 [11] **Zhihan Zhang**, Wenhao Yu, Chenguang Zhu, Meng Jiang. A Unified Encoder-Decoder Framework with Entity Memory. In *Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2022. \[[paper](https://arxiv.org/abs/2210.03273)] \[[code](https://github.com/DM2-ND/EDMem)] \[[video](https://drive.google.com/file/d/1R7XJw5sMSzTxiVfxzt1jhW6Bu8udy6iT/view?usp=sharing)] \[[poster](https://drive.google.com/file/d/1o9k5YGW8mYsonXAPGSfqYqm8W7LEcD11/view?usp=sharing)]
 
