@@ -15,10 +15,12 @@ For my past education and research experience, please refer to [Experience](http
 
 News
 ======
+- May 2023: One co-authored paper on text retrieval using large language models was accepted by Findings of **ACL 2023**!
+- Apr 2023: One first-authored paper on studying the contrast consistency in open-domain QA was accepted by **TACL**!
 - Apr 2023: I am joining Snapchat Research as a full-time research intern this summer! I will work with [Dr. Francesco Barbieri](https://fvancesco.github.io/) from the [User Modeling & Personalization Group](https://research.snap.com/team/category/user-modeling-and-personalization.html).
-- Jan 2023: One [first-authored survey](https://arxiv.org/abs/2204.03508) on multi-task learning in NLP was accepted by EACL 2023!
+- Jan 2023: One [first-authored survey](https://arxiv.org/abs/2204.03508) on multi-task learning in NLP was accepted by **EACL 2023**!
 - Jan 2023: I am joining Microsoft Research as a part-time intern this spring! I will work with [Dr. Shuohang Wang](https://sites.google.com/site/shuohangsite/) and [Dr. Chenguang Zhu](https://www.microsoft.com/en-us/research/people/chezhu/) from the [Azure Cognitive Services Research](https://www.microsoft.com/en-us/research/group/cognitive-services-research/) group.
-- Oct 2022: One [first-authored paper](https://arxiv.org/abs/2210.03273) on pre-training a unified NLP framework with entity memory and one [co-authored paper](https://arxiv.org/abs/2210.12887) on a unified retrieval-augmented framework for commonsense reasoning were accepted by EMNLP 2022!
+- Oct 2022: One [first-authored paper](https://arxiv.org/abs/2210.03273) on pre-training a unified NLP framework with entity memory and one [co-authored paper](https://arxiv.org/abs/2210.12887) on a unified retrieval-augmented framework for commonsense reasoning were accepted by **EMNLP 2022**!
 
 Contact
 ======
