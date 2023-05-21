@@ -7,7 +7,7 @@ author_profile: true
 
 (* means equal contribution)
 
-[14] Noah Ziems, Wenhao Yu, **Zhihan Zhang**, Meng Jiang. Large Language Models are Built-in Autoregressive Search Engines. In *Findings of the Association for Computational Linguistics (**ACL**)*, 2023.
+[14] Noah Ziems, Wenhao Yu, **Zhihan Zhang**, Meng Jiang. Large Language Models are Built-in Autoregressive Search Engines. In *Findings of the Association for Computational Linguistics (**ACL**)*, 2023. \[[paper](https://arxiv.org/pdf/2305.09612.pdf)] \[[code](https://github.com/Ziems/llm-url)]
 
 [13] **Zhihan Zhang**, Wenhao Yu, Zheng Ning, Mingxuan Ju, Meng Jiang. Exploring Contrast Consistency of Open-Domain Question Answering Systems on Minimally Edited Questions. In *Transactions of the Association for Computational Linguistics (**TACL**)*, 2023.
 
