@@ -7,9 +7,9 @@ author_profile: true
 
 (* means equal contribution)
 
-[14] Noah Ziems, Wenhao Yu, **Zhihan Zhang**, Meng Jiang. Large Language Models are Built-in Autoregressive Search Engines. In *Findings of the Association for Computational Linguistics (**ACL**)*, 2023. \[[paper](https://arxiv.org/pdf/2305.09612.pdf)] \[[code](https://github.com/Ziems/llm-url)]
+[14] Noah Ziems, Wenhao Yu, **Zhihan Zhang**, Meng Jiang. Large Language Models are Built-in Autoregressive Search Engines. In *Findings of the Association for Computational Linguistics (**ACL**)*, 2023. \[[paper](https://arxiv.org/abs/2305.09612)] \[[code](https://github.com/Ziems/llm-url)]
 
-[13] **Zhihan Zhang**, Wenhao Yu, Zheng Ning, Mingxuan Ju, Meng Jiang. Exploring Contrast Consistency of Open-Domain Question Answering Systems on Minimally Edited Questions. In *Transactions of the Association for Computational Linguistics (**TACL**)*, 2023.
+[13] **Zhihan Zhang**, Wenhao Yu, Zheng Ning, Mingxuan Ju, Meng Jiang. Exploring Contrast Consistency of Open-Domain Question Answering Systems on Minimally Edited Questions. In *Transactions of the Association for Computational Linguistics (**TACL**)*, 2023. \[[paper](https://arxiv.org/abs/2305.14441)] \[[code](https://github.com/ytyz1307zzh/Minimally_Edited_Questions)]
 
 [12] **Zhihan Zhang**, Wenhao Yu, Mengxia Yu, Zhichun Guo, Meng Jiang. A Survey of Multi-task Learning in Natural Language Processing: Regarding Task Relatedness and Training Methods. In *Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (**EACL**)*, 2023. \[[paper](https://arxiv.org/abs/2204.03508)] [[video](https://drive.google.com/file/d/1yw0Zek437p-LljxClNVDeVnDxf2xIdy7/view?usp=sharing)] [[poster](https://drive.google.com/file/d/13RecLlxHA9bB8rnmkn4LbohKZWrPE5tr/view?usp=sharing)]
 
