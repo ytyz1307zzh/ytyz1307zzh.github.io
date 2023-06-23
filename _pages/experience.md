@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **University of Notre Dame**\
-*Indiana, United States*
+*Notre Dame, Indiana, United States*
 - Doctor of Philosophy
 - Department of Computer Science and Engineering
 - Major: Computer Science and Engineering
@@ -23,15 +23,16 @@ author_profile: true
 Experience
 ======
 
-**Snapchat Research**, Jun 2023 - Aug 2023\
-*Santa Monica, CA, United States*
-- Full-time Research Intern
+**Snap Research**, Jun 2023 - Aug 2023\
+*Santa Monica, California, United States*
+- Research Intern
 - User Modeling & Personalization Group
 - Mentor: [Dr. Francesco Barbieri](https://fvancesco.github.io/)
+- Research: Efficient use of large language models
 
 **Microsoft Research**, Jan 2023 - May 2023\
-*Redmond, WA, United States*
-- Part-time Research Intern
+*Redmond, Washington, United States*
+- Research Intern
 - Microsoft Cognitive Service Research Group
 - Mentor: [Dr. Shuohang Wang](https://sites.google.com/site/shuohangsite/), [Dr. Chenguang Zhu](https://www.microsoft.com/en-us/research/people/chezhu/)
 - Research: Applications of large language models
@@ -44,21 +45,21 @@ Experience
 
 **Microsoft Research**, Nov 2019 - Aug 2020\
 *Beijing, China*
-- Full-time Research Intern
+- Research Intern
 - Microsoft STCA NLP Group
 - Mentor: [Dr. Xiubo Geng](https://xiubo0211.github.io/)
 - Research: knowledge-enhanced reading comprehension & dialogue
 
 **University of Notre Dame**, Jul 2019 - Sept 2019\
-*Notre Dame, IN, United States*
-- Full-time Research Assistant
+*Notre Dame, Indiana, United States*
+- Research Intern
 - International Summer Undergraduate Research Experience ([iSURE](https://international.nd.edu/students-scholars/global-engagement-programs/summer-programs/isure/)) program
 - Advisor: [Dr. Meng Jiang](http://www.meng-jiang.com)
 - Research: biomedical text retrieval
 
 **Peking University**, Jul 2018 - Jun 2019\
 *Beijing, China*
-- Research Assistant
+- Research Intern
 - Ministry of Education Key Laboratory of Computational Linguistics
 - Advisor: [Dr. Xu Sun](http://xusun.org)
 - Research: multi-modal language generation
