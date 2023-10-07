@@ -17,7 +17,7 @@ author_profile: true
 - Bachelor of Science
 - School of Electronic Engineering and Computer Science
 - Major: Computer Science and Technology
-- Advisor: [Dr. Xu Sun](http://xusun.org), [Dr. Yunfang Wu](https://cs.pku.edu.cn/info/1083/1300.htm)
+- Advisors: [Dr. Yunfang Wu](https://cs.pku.edu.cn/info/1237/2096.htm), [Dr. Xu Sun](http://xusun.org)
 
 
 Experience
@@ -28,40 +28,34 @@ Experience
 - Research Intern
 - User Modeling & Personalization Group
 - Mentor: [Dr. Francesco Barbieri](https://fvancesco.github.io/)
-- Research: Efficient use of large language models
+- Research: Multilingual Large Language Models
 
 **Microsoft Research**, Jan 2023 - May 2023\
 *Redmond, Washington, United States*
 - Research Intern
 - Microsoft Cognitive Service Research Group
 - Mentor: [Dr. Shuohang Wang](https://sites.google.com/site/shuohangsite/), [Dr. Chenguang Zhu](https://www.microsoft.com/en-us/research/people/chezhu/)
-- Research: Applications of large language models
-
-**Tencent**, Nov 2020 - Aug 2021\
-*Beijing, China*
-- Researcher
-- Tencent News Recommendation Algorithm Center
-- Focus: large-scale recommender system
+- Research: Automatic Instruction Optimization of Large Language Models
 
 **Microsoft Research**, Nov 2019 - Aug 2020\
 *Beijing, China*
 - Research Intern
 - Microsoft STCA NLP Group
 - Mentor: [Dr. Xiubo Geng](https://xiubo0211.github.io/)
-- Research: knowledge-enhanced reading comprehension & dialogue
+- Research: Knowledge-Enhanced Reading Comprehension & Dialogue
 
 **University of Notre Dame**, Jul 2019 - Sept 2019\
 *Notre Dame, Indiana, United States*
 - Research Intern
 - International Summer Undergraduate Research Experience ([iSURE](https://international.nd.edu/students-scholars/global-engagement-programs/summer-programs/isure/)) program
 - Advisor: [Dr. Meng Jiang](http://www.meng-jiang.com)
-- Research: biomedical text retrieval
+- Research: Biomedical Text Retrieval
 
 **Peking University**, Jul 2018 - Jun 2019\
 *Beijing, China*
 - Research Intern
 - Ministry of Education Key Laboratory of Computational Linguistics
 - Advisor: [Dr. Xu Sun](http://xusun.org)
-- Research: multi-modal language generation
+- Research: Multi-Modal Text Generation
 
 
