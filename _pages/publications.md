@@ -7,6 +7,14 @@ author_profile: true
 
 (* means equal contribution)
 
+For the up-to-date publication information, please check out my [Google Scholar page](https://scholar.google.com/citations?user=7dcunDUAAAAJ&hl=en).
+
+[17] **Zhihan Zhang**, Shuohang Wang, Wenhao Yu, Yichong Xu, Dan Iter, Qingkai Zeng, Yang Liu, Chenguang Zhu, Meng Jiang. Auto-Instruct: Automatic Instruction Generation and Ranking for Black-Box Language Models. In *Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2023.
+
+[16] Mengxia Yu, **Zhihan Zhang**, Wenhao Yu, Meng Jiang. Pre-training Language Models for Comparative Reasoning. In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2023. \[[paper](https://arxiv.org/abs/2305.14457)]
+
+[15] Wenhao Yu, **Zhihan Zhang**, Zhenwen Liang, Meng Jiang, Ashish Sabharwal. Improving Language Models via Plug-and-Play Retrieval Feedback. ArXiv preprint 2305.14002, 2023. \[[paper](https://arxiv.org/abs/2305.14002)]
+
 [14] Noah Ziems, Wenhao Yu, **Zhihan Zhang**, Meng Jiang. Large Language Models are Built-in Autoregressive Search Engines. In *Findings of the Association for Computational Linguistics (**ACL**)*, 2023. \[[paper](https://arxiv.org/abs/2305.09612)] \[[code](https://github.com/Ziems/llm-url)]
 
 [13] **Zhihan Zhang**, Wenhao Yu, Zheng Ning, Mingxuan Ju, Meng Jiang. Exploring Contrast Consistency of Open-Domain Question Answering Systems on Minimally Edited Questions. In *Transactions of the Association for Computational Linguistics (**TACL**)*, 2023. \[[paper](https://arxiv.org/abs/2305.14441)] \[[code](https://github.com/ytyz1307zzh/Minimally_Edited_Questions)]
