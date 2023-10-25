@@ -9,7 +9,7 @@ author_profile: true
 
 For the up-to-date publication information, please check out my [Google Scholar page](https://scholar.google.com/citations?user=7dcunDUAAAAJ&hl=en).
 
-[17] **Zhihan Zhang**, Shuohang Wang, Wenhao Yu, Yichong Xu, Dan Iter, Qingkai Zeng, Yang Liu, Chenguang Zhu, Meng Jiang. Auto-Instruct: Automatic Instruction Generation and Ranking for Black-Box Language Models. In *Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2023.
+[17] **Zhihan Zhang**, Shuohang Wang, Wenhao Yu, Yichong Xu, Dan Iter, Qingkai Zeng, Yang Liu, Chenguang Zhu, Meng Jiang. Auto-Instruct: Automatic Instruction Generation and Ranking for Black-Box Language Models. In *Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2023. \[[paper](https://arxiv.org/abs/2310.13127)]
 
 [16] Mengxia Yu, **Zhihan Zhang**, Wenhao Yu, Meng Jiang. Pre-training Language Models for Comparative Reasoning. In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2023. \[[paper](https://arxiv.org/abs/2305.14457)]
 
