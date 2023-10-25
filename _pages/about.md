@@ -14,7 +14,7 @@ For my past education and research experience, please refer to [Experience](http
 
 News
 ======
-- <img src="../images/new.png" width="25" align=center> Oct 2023: Two papers are accepted to **EMNLP 2023**! These include one first-authored paper on automatic instruction optimization of LLMs, and one [co-authored paper](https://arxiv.org/abs/2305.14457) on language model pre-training for comparative reasoning.
+- <img src="../images/new.png" width="25" align=center> Oct 2023: Two papers are accepted to **EMNLP 2023**! These include one [first-authored paper](https://arxiv.org/abs/2310.13127) on automatic instruction optimization of LLMs, and one [co-authored paper](https://arxiv.org/abs/2305.14457) on language model pre-training for comparative reasoning.
 - Jun 2023: I am joining Snapchat Research as a full-time research intern! I will work with [Dr. Francesco Barbieri](https://fvancesco.github.io/) from the [User Modeling & Personalization Group](https://research.snap.com/team/category/user-modeling-and-personalization.html).
 - May 2023: One [co-authored paper](https://arxiv.org/abs/2305.09612) on text retrieval using large language models was accepted by Findings of **ACL 2023**!
 - Apr 2023: One [first-authored paper](https://arxiv.org/abs/2305.14441) on studying the contrast consistency in open-domain QA was accepted by **TACL**!
