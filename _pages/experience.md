@@ -23,7 +23,7 @@ author_profile: true
 Experience
 ======
 
-**Snap Research**, Jun 2023 - Aug 2023\
+**Snap Research**, Jun 2023 - present\
 *Santa Monica, California, United States*
 - Research Intern
 - User Modeling & Personalization Group
@@ -37,7 +37,7 @@ Experience
 - Mentor: [Dr. Shuohang Wang](https://sites.google.com/site/shuohangsite/), [Dr. Chenguang Zhu](https://www.microsoft.com/en-us/research/people/chezhu/)
 - Research: Automatic Instruction Optimization of Large Language Models
 
-**Microsoft Research**, Nov 2019 - Aug 2020\
+**Microsoft Research**, Jan 2020 - Aug 2020\
 *Beijing, China*
 - Research Intern
 - Microsoft STCA NLP Group
