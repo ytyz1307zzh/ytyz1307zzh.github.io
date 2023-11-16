@@ -9,11 +9,13 @@ author_profile: true
 
 For the up-to-date publication information, please check out my [Google Scholar page](https://scholar.google.com/citations?user=7dcunDUAAAAJ&hl=en).
 
+[18] **Zhihan Zhang**, Dong-Ho Lee, Yuwei Fang, Wenhao Yu, Mengzhao Jia, Meng Jiang, Francesco Barbieri. PLUG: Leveraging Pivot Language in Cross-Lingual Instruction Tuning. *ArXiv preprint* 2311.08711, 2023. \[[paper](https://arxiv.org/abs/2311.08711)]
+
 [17] **Zhihan Zhang**, Shuohang Wang, Wenhao Yu, Yichong Xu, Dan Iter, Qingkai Zeng, Yang Liu, Chenguang Zhu, Meng Jiang. Auto-Instruct: Automatic Instruction Generation and Ranking for Black-Box Language Models. In *Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2023. \[[paper](https://arxiv.org/abs/2310.13127)] \[[code](https://github.com/ytyz1307zzh/Auto-Instruct)]
 
 [16] Mengxia Yu, **Zhihan Zhang**, Wenhao Yu, Meng Jiang. Pre-training Language Models for Comparative Reasoning. In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2023. \[[paper](https://arxiv.org/abs/2305.14457)]
 
-[15] Wenhao Yu, **Zhihan Zhang**, Zhenwen Liang, Meng Jiang, Ashish Sabharwal. Improving Language Models via Plug-and-Play Retrieval Feedback. ArXiv preprint 2305.14002, 2023. \[[paper](https://arxiv.org/abs/2305.14002)]
+[15] Wenhao Yu, **Zhihan Zhang**, Zhenwen Liang, Meng Jiang, Ashish Sabharwal. Improving Language Models via Plug-and-Play Retrieval Feedback. *ArXiv preprint 2305.14002*, 2023. \[[paper](https://arxiv.org/abs/2305.14002)]
 
 [14] Noah Ziems, Wenhao Yu, **Zhihan Zhang**, Meng Jiang. Large Language Models are Built-in Autoregressive Search Engines. In *Findings of the Association for Computational Linguistics (**ACL**)*, 2023. \[[paper](https://arxiv.org/abs/2305.09612)] \[[code](https://github.com/Ziems/llm-url)]
 
