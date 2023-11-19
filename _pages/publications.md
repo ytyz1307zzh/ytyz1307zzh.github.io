@@ -11,7 +11,7 @@ For the up-to-date publication information, please check out my [Google Scholar 
 
 [18] **Zhihan Zhang**, Dong-Ho Lee, Yuwei Fang, Wenhao Yu, Mengzhao Jia, Meng Jiang, Francesco Barbieri. PLUG: Leveraging Pivot Language in Cross-Lingual Instruction Tuning. *ArXiv preprint* 2311.08711, 2023. \[[paper](https://arxiv.org/abs/2311.08711)]
 
-[17] **Zhihan Zhang**, Shuohang Wang, Wenhao Yu, Yichong Xu, Dan Iter, Qingkai Zeng, Yang Liu, Chenguang Zhu, Meng Jiang. Auto-Instruct: Automatic Instruction Generation and Ranking for Black-Box Language Models. In *Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2023. \[[paper](https://arxiv.org/abs/2310.13127)] \[[code](https://github.com/ytyz1307zzh/Auto-Instruct)]
+[17] **Zhihan Zhang**, Shuohang Wang, Wenhao Yu, Yichong Xu, Dan Iter, Qingkai Zeng, Yang Liu, Chenguang Zhu, Meng Jiang. Auto-Instruct: Automatic Instruction Generation and Ranking for Black-Box Language Models. In *Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2023. \[[paper](https://arxiv.org/abs/2310.13127)] \[[code](https://github.com/ytyz1307zzh/Auto-Instruct)] \[[poster](https://drive.google.com/file/d/1wmpvfAMJoNtW7-WKqU_UnoWoKxHIsdlG/view?usp=sharing)]
 
 [16] Mengxia Yu, **Zhihan Zhang**, Wenhao Yu, Meng Jiang. Pre-training Language Models for Comparative Reasoning. In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2023. \[[paper](https://arxiv.org/abs/2305.14457)]
 
@@ -19,7 +19,7 @@ For the up-to-date publication information, please check out my [Google Scholar 
 
 [14] Noah Ziems, Wenhao Yu, **Zhihan Zhang**, Meng Jiang. Large Language Models are Built-in Autoregressive Search Engines. In *Findings of the Association for Computational Linguistics (**ACL**)*, 2023. \[[paper](https://arxiv.org/abs/2305.09612)] \[[code](https://github.com/Ziems/llm-url)]
 
-[13] **Zhihan Zhang**, Wenhao Yu, Zheng Ning, Mingxuan Ju, Meng Jiang. Exploring Contrast Consistency of Open-Domain Question Answering Systems on Minimally Edited Questions. In *Transactions of the Association for Computational Linguistics (**TACL**)*, 2023. \[[paper](https://arxiv.org/abs/2305.14441)] \[[code](https://github.com/ytyz1307zzh/Minimally_Edited_Questions)]
+[13] **Zhihan Zhang**, Wenhao Yu, Zheng Ning, Mingxuan Ju, Meng Jiang. Exploring Contrast Consistency of Open-Domain Question Answering Systems on Minimally Edited Questions. In *Transactions of the Association for Computational Linguistics (**TACL**)*, 2023. \[[paper](https://arxiv.org/abs/2305.14441)] \[[code](https://github.com/ytyz1307zzh/Minimally_Edited_Questions)] \[[video](https://drive.google.com/file/d/1o4z2ok_7HhJDHtNxYN1uHDKHTiipDeGo/view?usp=sharing)] \[[poster](https://drive.google.com/file/d/1BL2TRTc_d1YCw7JUxh5fvxORvACt9MFg/view?usp=sharing)]
 
 [12] **Zhihan Zhang**, Wenhao Yu, Mengxia Yu, Zhichun Guo, Meng Jiang. A Survey of Multi-task Learning in Natural Language Processing: Regarding Task Relatedness and Training Methods. In *Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (**EACL**)*, 2023. \[[paper](https://arxiv.org/abs/2204.03508)] [[video](https://drive.google.com/file/d/1yw0Zek437p-LljxClNVDeVnDxf2xIdy7/view?usp=sharing)] [[poster](https://drive.google.com/file/d/13RecLlxHA9bB8rnmkn4LbohKZWrPE5tr/view?usp=sharing)]
 
