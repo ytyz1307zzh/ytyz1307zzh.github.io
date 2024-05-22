@@ -23,12 +23,24 @@ author_profile: true
 Experience
 ======
 
-**Snap Research**, Jun 2023 - present\
+**Amazon**, Jun 2024 - Sept 2024\
+*Seattle, Washington, United States*
+- Research Intern
+- Search Mission and Query Understanding Group
+- Mentor: [Dr. Shiyang Li](https://scholar.google.com/citations?user=4zli0KkAAAAJ&hl=en)
+
+**Tecent AI Lab**, Feb 2024 - Jun 2024\
+*Bellevue, Washington, United States*
+- Research Intern
+- Natural Language Processing Lab
+- Research: Improving Reasoning Abilities of Language Models
+
+**Snap Research**, Jun 2023 - Dec 2023\
 *Santa Monica, California, United States*
 - Research Intern
 - User Modeling & Personalization Group
 - Mentor: [Dr. Francesco Barbieri](https://fvancesco.github.io/)
-- Research: Multilingual Large Language Models
+- Research: Cross-Lingual Instruction Tuning of Large Language Models
 
 **Microsoft Research**, Jan 2023 - May 2023\
 *Redmond, Washington, United States*
