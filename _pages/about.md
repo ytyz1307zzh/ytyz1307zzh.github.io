@@ -14,11 +14,12 @@ For my past education and research experience, please refer to [Experience](http
 
 News
 ======
-- <img src="../images/new.png" width="25" align=center> Nov 2023: A new [first-authored preprint](https://arxiv.org/abs/2311.08711) came out! We studied the challenges in cross-lingual instruction-tuning and proposed a simple yet effective method to improve LLMs' proficiency in low-resource languages. Code is available on [Github](https://github.com/ytyz1307zzh/PLUG).
-- <img src="../images/new.png" width="25" align=center> Oct 2023: Two papers are accepted to **EMNLP 2023**! These include one [first-authored paper](https://arxiv.org/abs/2310.13127) on automatic instruction optimization of LLMs, and one [co-authored paper](https://arxiv.org/abs/2305.14457) on language model pre-training for comparative reasoning.
+-  <img src="../images/new.png" width="25" align=center> Jun 2024: I am joining Amazon as a full-time research intern in summer 2024.
+-  <img src="../images/new.png" width="25" align=center> May 2024: One [first-authored paper](https://arxiv.org/abs/2311.08711) is accepted to **ACL 2024** main conference! We studied the challenges in cross-lingual instruction-tuning and proposed a simple yet effective method to improve LLMs' proficiency in low-resource languages. Code is available on [Github](https://github.com/ytyz1307zzh/PLUG).
+-  <img src="../images/new.png" width="25" align=center> Apr 2024: We released [a new preprint](https://arxiv.org/abs/2404.14604) on multi-modal mathematical reasoning! We targeted MLLMs' visual understanding capacity for better reasoning accuracy on multi-modal math problems.
+-  Feb 2023: I am joining Tecent America as a full-time research intern in spring 2024.
+-  Oct 2023: Two papers are accepted to **EMNLP 2023**! These include one [first-authored paper](https://arxiv.org/abs/2310.13127) on automatic instruction optimization of LLMs, and one [co-authored paper](https://arxiv.org/abs/2305.14457) on language model pre-training for comparative reasoning.
 - Jun 2023: I am joining Snapchat Research as a full-time research intern! I will work with [Dr. Francesco Barbieri](https://fvancesco.github.io/) from the [User Modeling & Personalization Group](https://research.snap.com/team/category/user-modeling-and-personalization.html).
-- May 2023: One [co-authored paper](https://arxiv.org/abs/2305.09612) on text retrieval using large language models was accepted by Findings of **ACL 2023**!
-- Apr 2023: One [first-authored paper](https://arxiv.org/abs/2305.14441) on studying the contrast consistency in open-domain QA was accepted by **TACL**!
 
 Contact
 ======
