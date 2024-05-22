@@ -9,7 +9,11 @@ author_profile: true
 
 For the up-to-date publication information, please check out my [Google Scholar page](https://scholar.google.com/citations?user=7dcunDUAAAAJ&hl=en).
 
-[18] **Zhihan Zhang**, Dong-Ho Lee, Yuwei Fang, Wenhao Yu, Mengzhao Jia, Meng Jiang, Francesco Barbieri. PLUG: Leveraging Pivot Language in Cross-Lingual Instruction Tuning. *ArXiv preprint* 2311.08711, 2023. \[[paper](https://arxiv.org/abs/2311.08711)]
+[20] Mengzhao Jia, **Zhihan Zhang**, Wenhao Yu, Fangkai Jiao, Meng Jiang. Describe-then-Reason: Improving Multimodal Mathematical Reasoning through Visual Comprehension Training. *ArXiv preprint 2404.14604*, 2024. \[[paper](https://arxiv.org/abs/2404.14604)]
+
+[19] Qingkai Zeng, Yuyang Bai, Zhaoxuan Tan, Shangbin Feng, Zhenwen Liang, **Zhihan Zhang**, Meng Jiang. Chain-of-Layer: Iteratively Prompting Large Language Models for Taxonomy Induction from Limited Examples. *ArXiv preprint 2402.07386*, 2024. \[[paper](https://arxiv.org/abs/2402.07386)]
+
+[18] **Zhihan Zhang**, Dong-Ho Lee, Yuwei Fang, Wenhao Yu, Mengzhao Jia, Meng Jiang, Francesco Barbieri. PLUG: Leveraging Pivot Language in Cross-Lingual Instruction Tuning. In *Proceedings of the 62th Annual Meeting of the Association for Computational Linguistics (**ACL**)*, 2024. \[[paper](https://arxiv.org/abs/2311.08711)] \[[code](https://github.com/ytyz1307zzh/PLUG)]
 
 [17] **Zhihan Zhang**, Shuohang Wang, Wenhao Yu, Yichong Xu, Dan Iter, Qingkai Zeng, Yang Liu, Chenguang Zhu, Meng Jiang. Auto-Instruct: Automatic Instruction Generation and Ranking for Black-Box Language Models. In *Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2023. \[[paper](https://arxiv.org/abs/2310.13127)] \[[code](https://github.com/ytyz1307zzh/Auto-Instruct)] \[[poster](https://drive.google.com/file/d/1wmpvfAMJoNtW7-WKqU_UnoWoKxHIsdlG/view?usp=sharing)]
 
