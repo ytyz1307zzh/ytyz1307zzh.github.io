@@ -7,17 +7,19 @@ author_profile: true
 
 (* means equal contribution)
 
-For the up-to-date publication information, please check out my [Google Scholar page](https://scholar.google.com/citations?user=7dcunDUAAAAJ&hl=en).
+For up-to-date publication information, please check out my [Google Scholar page](https://scholar.google.com/citations?user=7dcunDUAAAAJ&hl=en).
 
-[23] **Zhihan Zhang**, Zhenwen Liang, Wenhao Yu, Dian Yu, Mengzhao Jia, Dong Yu, Meng Jiang. Learn Beyond The Answer: Training Language Models with Reflection for Mathematical Reasoning. *ArXiv preprint 2406.12050*, 2024. \[[paper](https://arxiv.org/abs/2406.12050)] \[[code](https://github.com/ytyz1307zzh/RefAug)]
+[24] **Zhihan Zhang**, Zhenwen Liang, Wenhao Yu, Dian Yu, Mengzhao Jia, Dong Yu, Meng Jiang. Learn Beyond The Answer: Training Language Models with Reflection for Mathematical Reasoning. In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2024. \[[paper](https://arxiv.org/abs/2406.12050)] \[[code](https://github.com/ytyz1307zzh/RefAug)]
 
-[22] Zhenwen Liang, Dian Yu, Wenhao Yu, Wenlin Yao, **Zhihan Zhang**, Xiangliang Zhang, Dong Yu. MathChat: Benchmarking Mathematical Reasoning and Instruction Following in Multi-Turn Interactions. *ArXiv preprint 2405.19444*, 2024. \[[paper](https://arxiv.org/abs/2405.19444)] \[[code](https://github.com/Zhenwen-NLP/MathChat)]
+[23] Zhenyu Wu, Qingkai Zeng, **Zhihan Zhang**, Zhaoxuan Tan, Chao Shen, Meng Jiang. Large Language Models Can Self-Correct with Minimal Effort. In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2024. \[[paper](https://arxiv.org/abs/2405.14092)]
 
-[21] Zhenyu Wu, Qingkai Zeng, **Zhihan Zhang**, Zhaoxuan Tan, Chao Shen, Meng Jiang. Large Language Models Can Self-Correct with Minimal Effort. *ArXiv preprint 2405.14092*, 2024. \[[paper](https://arxiv.org/abs/2405.14092)]
+[22] Noah Ziems, **Zhihan Zhang**, Meng Jiang. TOWER: Tree Organized Weighting for Evaluating Complex Instructions. In *Findings of the 2024 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2024.
+
+[21] Zhenwen Liang, Dian Yu, Wenhao Yu, Wenlin Yao, **Zhihan Zhang**, Xiangliang Zhang, Dong Yu. MathChat: Benchmarking Mathematical Reasoning and Instruction Following in Multi-Turn Interactions. *ArXiv preprint 2405.19444*, 2024. \[[paper](https://arxiv.org/abs/2405.19444)] \[[code](https://github.com/Zhenwen-NLP/MathChat)]
 
 [20] Mengzhao Jia, **Zhihan Zhang**, Wenhao Yu, Fangkai Jiao, Meng Jiang. Describe-then-Reason: Improving Multimodal Mathematical Reasoning through Visual Comprehension Training. *ArXiv preprint 2404.14604*, 2024. \[[paper](https://arxiv.org/abs/2404.14604)]
 
-[19] Qingkai Zeng, Yuyang Bai, Zhaoxuan Tan, Shangbin Feng, Zhenwen Liang, **Zhihan Zhang**, Meng Jiang. Chain-of-Layer: Iteratively Prompting Large Language Models for Taxonomy Induction from Limited Examples. *ArXiv preprint 2402.07386*, 2024. \[[paper](https://arxiv.org/abs/2402.07386)] \[[code](https://github.com/QingkaiZeng/Chain-of-Layer)]
+[19] Qingkai Zeng, Yuyang Bai, Zhaoxuan Tan, Shangbin Feng, Zhenwen Liang, **Zhihan Zhang**, Meng Jiang. Chain-of-Layer: Iteratively Prompting Large Language Models for Taxonomy Induction from Limited Examples. In *International Conference on Information and Knowledge Management (**CIKM**)*, 2024. \[[paper](https://arxiv.org/abs/2402.07386)] \[[code](https://github.com/QingkaiZeng/Chain-of-Layer)]
 
 [18] **Zhihan Zhang**, Dong-Ho Lee, Yuwei Fang, Wenhao Yu, Mengzhao Jia, Meng Jiang, Francesco Barbieri. PLUG: Leveraging Pivot Language in Cross-Lingual Instruction Tuning. In *Proceedings of the 62th Annual Meeting of the Association for Computational Linguistics (**ACL**)*, 2024. \[[paper](https://arxiv.org/abs/2311.08711)] \[[code](https://github.com/ytyz1307zzh/PLUG)] \[[video](https://drive.google.com/file/d/1mKqdOF8hoxbcZTIZ2RCSikrp2sgbJgqw/view?usp=drive_link)] \[[poster](https://drive.google.com/file/d/1BGDesmaGb8LxCMZrDJgLQc3VOBWLtZnb/view?usp=sharing)]
 
