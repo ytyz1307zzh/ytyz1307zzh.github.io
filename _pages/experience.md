@@ -24,7 +24,7 @@ Experience
 ======
 
 **Amazon**, Jun 2024 - Dec 2024\
-*Seattle, Washington, United States*
+*Palo Alto, California, United States*
 - Research Intern
 - Mentor: [Dr. Shiyang Li](https://scholar.google.com/citations?user=4zli0KkAAAAJ&hl=en)
 - Research: Evaluating the Instruction-Following Capabilities of Language Models
@@ -32,7 +32,7 @@ Experience
 **Tecent AI Lab**, Feb 2024 - Jun 2024\
 *Bellevue, Washington, United States*
 - Research Intern
-- Natural Language Processing Lab
+- Mentor: [Dr. Tao Ge](https://getao.github.io/)
 - Research: Improving Math Reasoning Abilities of Language Models
 
 **Snap Research**, Jun 2023 - Dec 2023\
