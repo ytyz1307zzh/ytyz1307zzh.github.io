@@ -23,36 +23,33 @@ author_profile: true
 Experience
 ======
 
-**Amazon**, Jun 2024 - Sept 2024\
+**Amazon**, Jun 2024 - Dec 2024\
 *Seattle, Washington, United States*
 - Research Intern
-- Search Mission and Query Understanding Group
 - Mentor: [Dr. Shiyang Li](https://scholar.google.com/citations?user=4zli0KkAAAAJ&hl=en)
+- Research: Evaluating the Instruction-Following Capabilities of Language Models
 
 **Tecent AI Lab**, Feb 2024 - Jun 2024\
 *Bellevue, Washington, United States*
 - Research Intern
 - Natural Language Processing Lab
-- Research: Improving Reasoning Abilities of Language Models
+- Research: Improving Math Reasoning Abilities of Language Models
 
 **Snap Research**, Jun 2023 - Dec 2023\
 *Santa Monica, California, United States*
 - Research Intern
-- User Modeling & Personalization Group
 - Mentor: [Dr. Francesco Barbieri](https://fvancesco.github.io/)
 - Research: Cross-Lingual Instruction Tuning of Large Language Models
 
 **Microsoft Research**, Jan 2023 - May 2023\
 *Redmond, Washington, United States*
 - Research Intern
-- Microsoft Cognitive Service Research Group
 - Mentor: [Dr. Shuohang Wang](https://sites.google.com/site/shuohangsite/), [Dr. Chenguang Zhu](https://www.microsoft.com/en-us/research/people/chezhu/)
 - Research: Automatic Instruction Optimization of Large Language Models
 
 **Microsoft Research**, Jan 2020 - Aug 2020\
 *Beijing, China*
 - Research Intern
-- Microsoft STCA NLP Group
 - Mentor: [Dr. Xiubo Geng](https://xiubo0211.github.io/)
 - Research: Knowledge-Enhanced Reading Comprehension & Dialogue
 
@@ -66,7 +63,6 @@ Experience
 **Peking University**, Jul 2018 - Jun 2019\
 *Beijing, China*
 - Research Intern
-- Ministry of Education Key Laboratory of Computational Linguistics
 - Advisor: [Dr. Xu Sun](http://xusun.org)
 - Research: Multi-Modal Text Generation
 
