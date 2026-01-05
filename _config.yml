@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhihan Zhang"
 title_separator          : "-"
 name                     : &name "Zhihan Zhang"
-description              : &description "PhD student at University of Notre Dame"
+description              : &description "LLM Applied Scientist at Amazon"
 url                      : https://ytyz1307zzh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ytyz1307zzh/ytyz1307zzh.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhihan Zhang"
   avatar           : "photo.png"
-  bio              : "CS PhD student at University of Notre Dame"
-  location         : "Notre Dame, Indiana, USA"
-  employer         :
+  bio              : "LLM Applied Scientist at Amazon"
+  location         : "Palo Alto, CA"
+  employer         : "Amazon"
   pubmed           : 
   googlescholar    : "http://scholar.google.com/citations?user=7dcunDUAAAAJ&hl=en"
-  email            : "zzhang23@nd.edu"
+  email            : "zhangzhihan719@gmail.com"
   researchgate     : 
   uri              :
   bitbucket        :

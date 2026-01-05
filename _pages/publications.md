@@ -9,15 +9,23 @@ author_profile: true
 
 For up-to-date publication information, please check out my [Google Scholar page](https://scholar.google.com/citations?user=7dcunDUAAAAJ&hl=en).
 
+### 2025
+
+[31] Mengzhao Jia, Wenhao Yu, Kaixin Ma, Tianqing Fang, **Zhihan Zhang**, Siru Ouyang, Hongming Zhang, Meng Jiang, Dong Yu. Leopard: A Vision Language Model For Text-Rich Multi-Image Tasks. In *Transactions on Machine Learning Research (**TMLR**)*, 2025. \[[paper](https://arxiv.org/abs/2410.01744)] \[[code](https://github.com/tencent-ailab/Leopard)]
+
+[30] Zhenyu Wu, Qingkai Zeng, **Zhihan Zhang**, Zhaoxuan Tan, Chao Shen, Meng Jiang. Enhancing Mathematical Reasoning in LLMs by Stepwise Correction. In *Proceedings of the 63th Annual Meeting of the Association for Computational Linguistics (**ACL**)*, 2025. \[[paper](https://arxiv.org/abs/2410.12934)] \[[code](https://github.com/wzy6642/StepCo)]
+
+[29] Zhaoxuan Tan, Zheng Li, Tianyi Liu, Haodong Wang, Hyokun Yun, Ming Zeng, Pei Chen, **Zhihan Zhang**, Yifan Gao, Ruijie Wang, Priyanka Nigam, Bing Yin, Meng Jiang. Aligning large language models with implicit preferences from user-generated content. In *Proceedings of the 63th Annual Meeting of the Association for Computational Linguistics (**ACL**)*, 2025. \[[paper](https://arxiv.org/pdf/2506.04463)]
+
+[28] Siru Ouyang, Wenhao Yu, Kaixin Ma, Zilin Xiao, **Zhihan Zhang**, Mengzhao Jia, Jiawei Han, Hongming Zhang, Dong Yu. RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph. In *The Thirteenth International Conference on Learning Representations (**ICLR**)*, 2025. \[[paper](https://arxiv.org/abs/2410.14684)] \[[code](https://github.com/ozyyshr/RepoGraph)]
+
+[27] **Zhihan Zhang**, Shiyang Li, Zixuan Zhang, Xin Liu, Haoming Jiang, Xianfeng Tang, Yifan Gao, Zheng Li, Haodong Wang, Zhaoxuan Tan, Yichuan Li, Qingyu Yin, Bing Yin, Meng Jiang. IHEval: Evaluating language models on following the instruction hierarchy. In *Nations of the Americas Chapter of the Association for Computational Linguistics (**NAACL**)*, 2025. \[[paper](https://arxiv.org/pdf/2502.08745)] \[[code](https://github.com/ytyz1307zzh/IHEval)]
+
+[26] Yichuan Li, Xinyang Zhang, Chenwei Zhang, Mao Li, Tianyi Liu, Pei Chen, Yifan Gao, Kyumin Lee, Kaize Ding, Zhengyang Wang, **Zhihan Zhang**, Jingbo Shang, Xian Li, Trishul Chilimbi. ALERT: An LLM-powered Benchmark for Automatic Evaluation of Recommendation Explanations. \[[paper](https://aclanthology.org/2025.naacl-long.137.pdf)]
+
+[25] Zifeng Zhu, Mengzhao Jia, **Zhihan Zhang**, Lang Li, Meng Jiang. MultiChartQA: Benchmarking Vision-Language Models on Multi-Chart Problems. In *Nations of the Americas Chapter of the Association for Computational Linguistics (**NAACL**)*, 2025. \[[paper](https://arxiv.org/abs/2410.14179)] \[[code](https://github.com/Zivenzhu/Multi-chart-QA)]
+
 ### 2024
-
-[28] Mengzhao Jia, Wenhao Yu, Kaixin Ma, Tianqing Fang, **Zhihan Zhang**, Siru Ouyang, Hongming Zhang, Meng Jiang, Dong Yu. Leopard: A Vision Language Model For Text-Rich Multi-Image Tasks. *ArXiv preprint 2410.01744*, 2024. \[[paper](https://arxiv.org/abs/2410.01744)] \[[code](https://github.com/tencent-ailab/Leopard)]
-
-[27] Siru Ouyang, Wenhao Yu, Kaixin Ma, Zilin Xiao, **Zhihan Zhang**, Mengzhao Jia, Jiawei Han, Hongming Zhang, Dong Yu. RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph. *ArXiv preprint 2410.14684*, 2024. \[[paper](https://arxiv.org/abs/2410.14684)] \[[code](https://github.com/ozyyshr/RepoGraph)]
-
-[26] Zhenyu Wu, Qingkai Zeng, **Zhihan Zhang**, Zhaoxuan Tan, Chao Shen, Meng Jiang. Enhancing Mathematical Reasoning in LLMs by Stepwise Correction. *ArXiv preprint 2410.12934*, 2024. \[[paper](https://arxiv.org/abs/2410.12934)] \[[code](https://github.com/wzy6642/StepCo)]
-
-[25] Zifeng Zhu, Mengzhao Jia, **Zhihan Zhang**, Lang Li, Meng Jiang. MultiChartQA: Benchmarking Vision-Language Models on Multi-Chart Problems. *ArXiv preprint 2410.14179*, 2024. \[[paper](https://arxiv.org/abs/2410.14179)] \[[code](https://github.com/Zivenzhu/Multi-chart-QA)]
 
 [24] **Zhihan Zhang**, Zhenwen Liang, Wenhao Yu, Dian Yu, Mengzhao Jia, Dong Yu, Meng Jiang. Learn Beyond The Answer: Training Language Models with Reflection for Mathematical Reasoning. In *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*, 2024. \[[paper](https://arxiv.org/abs/2406.12050)] \[[code](https://github.com/ytyz1307zzh/RefAug)] \[[video](https://drive.google.com/file/d/1W9zqQNJJ_lUZpaWZReLX5NHWjkqaVAyM/view?usp=sharing)] \[[poster](https://drive.google.com/file/d/1Qs9maBIwn-KSf20yNoBz56XwY61deU_U/view?usp=sharing)]
 

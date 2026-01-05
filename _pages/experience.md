@@ -19,12 +19,19 @@ author_profile: true
 - Major: Computer Science and Technology
 - Advisors: [Dr. Yunfang Wu](https://cs.pku.edu.cn/info/1237/2096.htm), [Dr. Xu Sun](http://xusun.org)
 
+Work Experience
+======
 
-Experience
+**Amazon**, Jun 2025 - Present\
+*Palo Alto, California, United States*
+- Applied Scientist
+- Duty: Contribute to instruction-following training of the Rufus LLM
+
+Internships & Assistantships
 ======
 
 **Amazon**, Jun 2024 - Dec 2024\
-*Palo Alto, California, United States*
+*Seattle, Washington, United States*
 - Research Intern
 - Mentor: [Dr. Shiyang Li](https://scholar.google.com/citations?user=4zli0KkAAAAJ&hl=en)
 - Research: Evaluating the Instruction-Following Capabilities of Language Models
