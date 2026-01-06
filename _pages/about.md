@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Applied Scientist at Amazon"
-excerpt: "Applied Scientist at Amazon"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
