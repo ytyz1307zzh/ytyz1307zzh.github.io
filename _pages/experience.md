@@ -20,8 +20,8 @@ Member of Technical Staff
 
 <div class="amazon-experience" markdown="1">
 
-**Amazon**, Jun 2025 - Nov 2026\
-*Palo Alto, California, United States*\
+**Amazon**, Jun 2025 - Nov 2026<br />
+*Palo Alto, California, United States*<br />
 Applied Scientist, Rufus team
 
 <div class="amazon-work-details" markdown="1">
