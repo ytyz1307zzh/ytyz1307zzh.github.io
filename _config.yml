@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Zhihan Zhang"
   avatar           : "photo.png"
-  bio              : "LLM Applied Scientist at Amazon"
-  location         : "Palo Alto, CA"
-  employer         : "Amazon"
+  bio              : "Member of Technical Staff, Microsoft AI"
+  location         : "Mountain View, CA"
+  employer         : "Microsoft AI"
   pubmed           : 
   googlescholar    : "http://scholar.google.com/citations?user=7dcunDUAAAAJ&hl=en"
   email            : "zhangzhihan719@gmail.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ytyz1307zzh"
+  github           :
   google_plus      :
   keybase          :
   instagram        :

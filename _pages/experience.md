@@ -5,22 +5,24 @@ permalink: /experience/
 author_profile: true
 ---
 
-Work Experience
-======
+<style>
+.amazon-experience { margin-top: 1.75em; margin-bottom: 2em; }
+.amazon-work-details > ul { margin-top: 0.75em; }
+.amazon-work-details > ul > li + li { margin-top: 0.6em; }
+</style>
+
+## Work Experience
 
 **Microsoft AI**, Nov 2026 - Present\
 *Mountain View, California, United States*\
 Member of Technical Staff
 - Work on post-training MAI's foundation model.
 
+<div class="amazon-experience" markdown="1">
+
 **Amazon**, Jun 2025 - Nov 2026\
 *Palo Alto, California, United States*\
 Applied Scientist, Rufus team
-
-<style>
-.amazon-work-details > ul { margin-top: 0.75em; }
-.amazon-work-details > ul > li + li { margin-top: 0.6em; }
-</style>
 
 <div class="amazon-work-details" markdown="1">
 
@@ -29,8 +31,9 @@ Applied Scientist, Rufus team
 
 </div>
 
-Education
-======
+</div>
+
+## Education
 
 **University of Notre Dame**\
 *Notre Dame, Indiana, United States*
