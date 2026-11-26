@@ -8,25 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhihan Zhang (张智涵). I am an Applied Scientist at Amazon, where I work on building Rufus, Amazon’s large language model agent tailored for shopping applications. My current work focuses on improving the general instruction-following capabilities of the Rufus model, as part of its post-training efforts. 
-
-Prior to joining industry, I earned my Ph.D. in Computer Science from the University of Notre Dame, where I was advised by [Dr. Meng Jiang](http://www.meng-jiang.com/). During my Ph.D., my research centered on training and evaluation methods for instruction-following LLMs. I received my Bachelor’s degree from Peking University, where I worked with [Dr. Yunfang Wu](https://cs.pku.edu.cn/info/1237/2096.htm) and [Dr. Xu Sun](https://xusun.org/). I gave a tutorial about instruction-following LLMs at [EMNLP 2025](https://instruction-tuning-tutorial-2025.github.io/).
+My name is Zhihan Zhang (张智涵). I am a member of technical staff at Microsoft AI (MAI), where I work on post-training MAI's foundation model. Before joining MAI, I worked at Amazon's Rufus team, where I led the instruction-following post-training for Rufus's in-house foundation model ([technical report](https://arxiv.org/abs/2609.29421)). I completed my Ph.D. from the University of Notre Dame, where I was advised by [Dr. Meng Jiang](http://www.meng-jiang.com/). My Ph.D. research focused on improving the instruction-following capabilities of LLMs by creating synthetic data and exploring post-training recipes. I received my Bachelor’s degree from Peking University, where I worked with [Dr. Yunfang Wu](https://cs.pku.edu.cn/info/1237/2096.htm) and [Dr. Xu Sun](https://xusun.org/). I gave a [tutorial](https://instruction-tuning-tutorial-2025.github.io/) about instruction-following LLMs at EMNLP 2025.
 
 For my past education and internship experience, please refer to [Experience](http://ytyz1307zzh.github.io/experience). For the full list of my publications, please refer to [Publications](http://ytyz1307zzh.github.io/publications) or check my [Google Scholar page](https://scholar.google.com/citations?user=7dcunDUAAAAJ&hl=en).
 
 News
 ======
--  <img src="../images/new.png" width="25" align=center> Nov 2025: I gave a tutorial about instruction-following LLMs at [EMNLP 2025](https://instruction-tuning-tutorial-2025.github.io/). The tutorial covers training methods, evaluation benchmarks, data collection, and explanability analyses of instruction-following LLMs. Check out our [slides](https://drive.google.com/drive/folders/1RLIlKoxkk4wOsV2FylLZq0til_wH4xtC?usp=sharing) and [video](https://underline.io/events/502/sessions?searchGroup=lecture&trackIds=2497&eventSessionId=20910&eventId=502)!
+-  <img src="../images/new.png" width="25" align=center> Nov 2026: I am excited to join Microsoft AI as a member of technical staff! I will work on post-training MAI's foundation model.
  
--  May 2025: A [co-authored paper](https://arxiv.org/abs/2506.04463) was accepted by **ACL 2025**! We proposed a novel framework that leverages implicit user preferences to generate preference tuning data for LLMs.
+-  Sep 2026: We released a [technical report on Rufus-Air](https://arxiv.org/abs/2609.29421), sharing our recipe for foundation model post-training at Amazon Rufus.
 
-- May 2025: A [co-authored paper](https://arxiv.org/abs/2410.12934) was accepted by **ACL 2025**! We proposed an iterative verify-then-revise framework for LLMs on reasoning tasks.
+-  Sep 2026: We proposed [Agent-as-Policy](https://arxiv.org/abs/2609.12541), a new framework that uses general AI agents to control real-world robots.
 
-- Feb 2025: A [first-authored paper](https://arxiv.org/abs/2502.08745) was accepted by **NAACL 2025**! We built IHEval, a novel benchmark for assessing LLMs' capability of following the instruction hierarchy.
-
-- Feb 2025: A [co-authored paper](https://aclanthology.org/2025.naacl-long.137/) was accepted by **NAACL 2025**! We delivered a new evaluation benchmark for LLM-based recommender systems.
+-  July 2025: A [first-authored paper](https://arxiv.org/abs/2606.03968) was accepted to EMNLP 2026! We proposed a pipeline to co-design queries and their rubrics to improve LLMs' ability to answer general queries and perform logical reasoning.
 
 Contact
 ======
 - Email: zhangzhihan719 [at] gmail.com
-- Office: 611 Cowper Street, Palo Alto, CA
+- Office: 1045 La Avenida St, Mountain View, CA 94043
